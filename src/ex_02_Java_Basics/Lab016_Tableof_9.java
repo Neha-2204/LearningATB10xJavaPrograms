@@ -2,26 +2,26 @@ package ex_02_Java_Basics;
 
 public class Lab016_Tableof_9 {
     public static void main(String[] args) {
-        int i = 9;
-        System.out.printf("9x1= %d",i);
+        int table = 9;
+        System.out.printf("%d x 1 = %d",table , table);
         System.out.println();
-        System.out.printf("9x2= %d",i*2);
+        System.out.printf("%d x 2 = %d",table , table*2);
         System.out.println();
-        System.out.printf("9x3= %d",i*3);
+        System.out.printf("%d x 3 = %d",table , table*3);
         System.out.println();
-        System.out.printf("9x4= %d",i*4);
+        System.out.printf("%d x 4 = %d",table , table*4);
         System.out.println();
-        System.out.printf("9x5= %d",i*5);
+        System.out.printf("%d x 5 = %d",table , table*5);
         System.out.println();
-        System.out.printf("9x6= %d",i*6);
+        System.out.printf("%d x 6 = %d",table , table*6);
         System.out.println();
-        System.out.printf("9x7= %d",i*7);
+        System.out.printf("%d x 7 = %d",table , table*7);
         System.out.println();
-        System.out.printf("9x8= %d",i*8);
+        System.out.printf("%d x 8 = %d",table , table*8);
         System.out.println();
-        System.out.printf("9x9= %d",i*9);
+        System.out.printf("%d x 9 = %d",table , table*9);
         System.out.println();
-        System.out.printf("9x10= %d",i*10);
+        System.out.printf("%d x 10 = %d",table , table*10);
 
 
 
